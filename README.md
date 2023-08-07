@@ -9,7 +9,7 @@ Meet Ahmad, a Frontend Developer with an eye for with a passion for design and a
 
 * 🌍  I'm based in Aarhus, Denmark
 * ✉️  You can contact me at [ahmadmousavii91@gmail.com](mailto:ahmadmousavii91@gmail.com)
-* 🧠  I'm learning Node.jS
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects and Trainee opportunities
 * ⚡  I may not wear a cape, but I am a hero in the world of programming. Armed with a keyboard and a never-ending curiosity, I am ready to take on any challenge that comes my way.
 
